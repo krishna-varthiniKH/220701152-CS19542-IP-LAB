@@ -1,0 +1,103 @@
+ <head>
+      <title> RESUME </title>
+      <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+   
+      <h1 style="text-align:center"> RESUME </h1>
+     <hr style="height:2px;border-width:0;color:gray;background-color:#10130F">
+     <article id="personal info">
+     
+        <h2><u>Personal Info</u> </h2>
+        <h5>NAME : MADHU PREETHA A</h5>
+        <h5>DOB :   16-05-2005 </h5>
+        <h5>Fathers Name:  P Arumugam</h5>
+        <h5>Mother Name: A Nalini</h5>
+        <h5>CONTACT NO:  9444684180 </h5>
+        <h5>email id: 220701152@rajalakshmi.edu.in </h5>
+        <h5>ADDRESS : <em>No.1/36,Mettu Street,Kalambakkam vill,Perambakkam post<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tiruvallur-631402</em>                  
+        </h5>
+        <hr style="height:2px;border-width:0;color:gray;background-color:#10130F">
+     </aricle>
+   
+     <article id="Educational Qualification">
+     <h2><u>Educational Qualification</u></h2>
+<table border="1">
+    <thead>
+        <tr>
+            <th>s.no</th>
+            <th>education</th>
+            <th>passing year</th>
+            <th>mark obtained</th>
+            <th>percentage</th>
+        </tr>
+    </thead>
+    <tbody>
+         <tr>
+            <td>03</td>
+            <td>Be CSE</td>
+            <td>3rd year</td>
+            <td>8.45</td>
+            <td>84.5%</td>
+        </tr>
+          <tr>
+            <td>02</td>
+            <td>HSC</td>
+            <td>2022</td>
+            <td>584</td>
+            <td>97.3%</td>
+        </tr>
+
+         <tr>
+            <td>01</td>
+            <td>SSLC</td>
+            <td>2020</td>
+            <td>497</td>
+            <td>99.4%</td>
+        </tr>
+            </tbody>
+</table>
+     <hr>
+        <article id="skills">
+         <h2><u>Skills</u></h2>
+            <nav>
+               
+                <ul>
+                    <li>C</li>
+                    <li>JAVA</li>
+                    <li>SQL</li>
+                    <li>PL/SQL</li>
+                    <li>MONGO DB</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JAVASCRIPT</li>
+                </ul>
+            </nav>
+         
+       </article>
+       <hr style="height:2px;border-width:0;color:gray;background-color:#10130F">
+       <article id="Work Experience">
+         <h2><u>Work Experience</u></h2>
+   
+         <ul>
+            <li><p class="highlight"><b>Web development</b><br>
+               - gained knowledge on technical front-end and/or back-end code that informs site functionality. <br>
+               - Web developers may work exclusively on front-end code, back-end code, or both, and many modern jobs also require overlap in web design.
+            </li>
+         </ul>
+        </article>
+         <hr>
+        <article id="Projects">
+         <h2><u>Projects</u></h2>
+
+         <li>Online Shopping Management System</li>
+               <li>Alumni Network Platform</li>
+            </ul>
+         </article>
+         <hr>
+
+
+         <br>      
+   </body>
+
+    
